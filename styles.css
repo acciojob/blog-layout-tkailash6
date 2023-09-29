@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.container{
+	display:grid;	
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	justidy-content:center;
+	
+}
+
+
+.n,.r,.t,.i,{
+	background-color:pink;
+	
+}
+ol{
+	list-style-type:none;
+	
+}
+h6{
+	justify-content:center;
+}
