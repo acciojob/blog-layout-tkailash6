@@ -2,14 +2,14 @@
 .container{
 	display:grid;	
 	grid-template-columns:1fr 1fr 1fr 1fr;
-	justidy-content:center;
+	justify-content:center;
 	
 }
 
 
-.n,.r,.t,.i,{
+.n{
 	background-color:pink;
-	
+	justify-content:center;
 }
 ol{
 	list-style-type:none;
